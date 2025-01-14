@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+### Bachiller en Ingeniería Mecatrónica por la Universidad Nacional de Ingeniería y estudiante del MicroMaster ### en Estadística y Ciencia de Datos del MIT. Poseo un nivel avanzado de inglés y dominio de herramientas y ### tecnologías como Python, SQL, Scala, PySpark, ecosistema Hadoop, Apache Spark, redes (networking) y 
+### servicios en la nube (cloud services). Cuento con 2 años de experiencia en el área de Tecnología de la 
+### Información, desempeñándome como Data Analyst y Data Engineer. Mis principales fortalezas incluyen 
+### liderazgo, compromiso y adaptabilidad a diversos entornos laborales. Actualmente, estoy enfocado en 
+### continuar desarrollándome profesionalmente en el área de  Data & Analytics o Big Data.
 <!--
 **derderson5/derderson5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
